@@ -10,8 +10,7 @@ Ocean Sort is an innovative sorting algorithm designed to help people understand
 - [Usage](#usage)
 - [Visualization](#visualization)
 - [Installation](#installation)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
