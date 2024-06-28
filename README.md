@@ -93,6 +93,7 @@ if __name__ == "__main__":
 
     print("Sorted array:")
     print(sorted_array)
+```
 
 
 ## Visualization
