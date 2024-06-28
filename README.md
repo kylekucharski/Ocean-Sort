@@ -115,7 +115,7 @@ The `OceanSort` function not only sorts the array but also captures each step of
 1. **Clone the repository**:
 
     ```sh
-    git clone https://github.com/yourusername/OceanSort.git
+    git clone https://github.com/kylekucharski/OceanSort.git
     cd OceanSort
     ```
 
