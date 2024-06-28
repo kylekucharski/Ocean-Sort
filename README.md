@@ -98,15 +98,15 @@ if __name__ == "__main__":
 
 ## Visualization
 
-The `ocean_sort` function not only sorts the array but also captures each step of the sorting process. The `visualize_frame` function uses Matplotlib to create an animation, helping users visualize how the algorithm works.
+The `OceanSort` function not only sorts the array but also captures each step of the sorting process. The `visualize_frame` function uses Matplotlib to create an animation, helping users visualize how the algorithm works.
 
 ## Installation
 
 1. **Clone the repository**:
 
     ```sh
-    git clone https://github.com/yourusername/ocean_sort.git
-    cd ocean_sort
+    git clone https://github.com/yourusername/OceanSort.git
+    cd OceanSort
     ```
 
 2. **Install the required packages**:
@@ -118,7 +118,6 @@ The `ocean_sort` function not only sorts the array but also captures each step o
 3. **Run the script**:
 
     ```sh
-    python ocean_sort.py
+    python OceanSort.py
     ```
-
 
