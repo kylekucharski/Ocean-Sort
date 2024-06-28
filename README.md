@@ -25,6 +25,16 @@ Ocean Sort works by iteratively performing two main operations:
 
 The range of these waves decreases over time, similar to how waves recede on a shoreline, until the entire array is sorted.
 
+### Runtime Complexity
+
+- **Worst-case time complexity**: O(n^2)
+- **Average-case time complexity**: O(n^2)
+
+### Space Complexity
+
+- **Space complexity**: O(n) (due to the additional storage required for the frames used in visualization)
+
+
 ## Features
 
 - Unique wave-inspired sorting algorithm
